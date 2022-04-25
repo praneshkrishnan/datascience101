@@ -7,5 +7,5 @@ Data Science libraries
 
 Data Deduplication
 
-- Prodigy [https://prodi.gy/]
+- [Prodigy](https://prodi.gy/)
 - 
