@@ -24,6 +24,8 @@
 - [Microsoft Cognitive Toolkit (earlier known as CNTK)](https://docs.microsoft.com/en-us/cognitive-toolkit/)
 - [Apache MXNET](https://mxnet.apache.org/)
 - [Shogun](https://www.shogun-toolbox.org/)
+- [Weka]()
+- 
 - 
 
 **Data Science Libraries**
@@ -39,7 +41,7 @@
 - [Theano](http://deeplearning.net/software/theano/)
 - [Veles](https://codisec.com/veles/)
 - [XGBoost](https://xgboost.readthedocs.io/en/latest/)
-- []()
+- [Prodigy](https://prodi.gy/)
 - []()
 
 **Data Analysis**
@@ -76,7 +78,28 @@
 - [Data Science Tools_2](https://www.techtarget.com/searchbusinessanalytics/feature/15-data-science-tools-to-consider-using)
 
 
+**Deployment and Orchestration**
+- [Ansible](https://www.ansible.com/)
+- [Ansible - Github](https://github.com/ansible/ansible)
+- Rudder
+- SaltStack
+- Puppet
+- Chef
+- CFEngine
+- Gitlab CI
+- Jenkins
+- Codenvy
+- 
+
+
 **Data Science Guides**
 - [Data Science Guide - ANDREW ANDRADE](https://datascienceguide.github.io/outline)
+
+
+|Book Name       |  Link to the book             | Interested topics           |
+|----------------|-------------------------------|-----------------------------|
+|Data Science with Python and Dask  |`'Isn't this fun?'`            |'Isn't this fun?'            |
+|Scaling Python with Dask          |`"Isn't this fun?"`            |"Isn't this fun?"            |
+|Dashes          |`-- is en-dash, --- is em-dash`|-- is en-dash, --- is em-dash|
 
 
