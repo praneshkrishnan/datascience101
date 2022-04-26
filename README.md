@@ -44,6 +44,32 @@
 - [Prodigy](https://prodi.gy/)
 - []()
 
+
+
+**Data Science Tools**
+- Statistical Analysis System (SAS)
+- Apache Hadoop
+- Tableau
+- TensorFlow
+- BigML
+- Knime
+- RapidMiner
+- Excel
+- Apache Flink
+- PowerBI
+- Google Analytics
+- Python
+- R (RStudio)
+- DataRobot
+- D3.js
+- Microsoft HDInsight
+- Jupyter
+- Matplotlib
+- MATLAB
+- QlikView
+
+
+
 **Data Analysis**
 - [Pandas]()
 - [Numpy]()
