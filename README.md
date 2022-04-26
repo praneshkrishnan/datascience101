@@ -32,6 +32,8 @@
 - [Pandas](https://pandas.pydata.org/)
 - [Numpy](https://numpy.org/)
 - [Matplotlib](https://matplotlib.org/)
+- [klib](https://klib.readthedocs.io/en/latest/)  |  [klib-github](https://github.com/akanz1/klib)
+> klib is a Python library for importing, cleaning, analyzing and preprocessing data.
 - [Jupyter Notebook](https://jupyter.org/)
 - [ONNX](https://onnx.ai/)
 - [Plotly](https://plotly.com/)
@@ -105,8 +107,8 @@
 
 
 **Deployment and Orchestration**
-- [Ansible](https://www.ansible.com/)
-- [Ansible - Github](https://github.com/ansible/ansible)
+- [Ansible](https://www.ansible.com/)   |  [Ansible - Github](https://github.com/ansible/ansible)
+> Ansible is an open source IT automation engine that automates provisioning, configuration management, application deployment, orchestration, and many other IT processes.
 - Rudder
 - SaltStack
 - Puppet
